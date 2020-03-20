@@ -1,4 +1,4 @@
-package com.mgdev.user;
+package com.mdev.user;
 
 import java.util.Collection;
 

@@ -1,4 +1,4 @@
-package com.mgdev.user;
+package com.mdev.user;
 
 /**
  * Created by Giuseppe on 20/03/2020.
