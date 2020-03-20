@@ -3,10 +3,10 @@
   <groupId>com.mgdev</groupId>
   <artifactId>user-commons</artifactId>
   <versioning>
-    <release>1.0</release>
+    <release>1.0-r</release>
     <versions>
-      <version>1.0</version>
+      <version>1.0-r</version>
     </versions>
-    <lastUpdated>20200320182546</lastUpdated>
+    <lastUpdated>20200320182614</lastUpdated>
   </versioning>
 </metadata>
