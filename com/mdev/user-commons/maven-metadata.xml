@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.mgdev</groupId>
+  <groupId>com.mdev</groupId>
   <artifactId>user-commons</artifactId>
   <versioning>
-    <release>1.0-r</release>
+    <release>1.0</release>
     <versions>
-      <version>1.0-r</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20200320182614</lastUpdated>
+    <lastUpdated>20200320184218</lastUpdated>
   </versioning>
 </metadata>
