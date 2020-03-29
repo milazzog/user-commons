@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.mdev</groupId>
-    <artifactId>user-commons</artifactId>
-    <version>1.0</version>
+    <groupId>it.mgdev</groupId>
+    <artifactId>app-commons</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <properties>
         <github.global.server>github</github.global.server>
@@ -15,7 +15,18 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <repository.name>user-commons</repository.name>
         <repository.owner>milazzog</repository.owner>
+        <dep.spring.boot>2.2.5.RELEASE</dep.spring.boot>
     </properties>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <version>${dep.spring.boot}</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
 
     <distributionManagement>
         <repository>
