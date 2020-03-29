@@ -37,7 +37,7 @@
     </distributionManagement>
 
     <build>
-        <finalName>user-commons</finalName>
+        <finalName>app-commons</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
